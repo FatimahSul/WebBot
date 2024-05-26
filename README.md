@@ -20,9 +20,6 @@ My project aims to demonstrate the user interface and functionality that will be
 ### Project Purpose
 This website is a personal project born out of a desire to integrate my computer science knowledge with the fascinating world of robotics. Having recently completed a short course on robotics, my interest in the field was piqued, and I sought a practical way to apply my programming skills. For me, this website is a practice ground, allowing me to experiment with web development and programming concepts. While I may not be an expert in hardware, the website provides a virtual environment where I can explore the integration of computer science principles with robotic control.
 
-### Introduction Video
-Youtube link: https://youtu.be/fpZUM-L8XnM
-
 
 
 ### Note
